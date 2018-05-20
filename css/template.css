@@ -29,3 +29,8 @@ body {
 	margin-top: 100px;
 	border-radius: 5px;
 }
+.cx-mensagem p{
+	font-size: 40px;
+	font-family: Georgia;
+	color: red;
+}
